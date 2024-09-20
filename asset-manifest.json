@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Small-Lamborghini-Website-clone/static/css/main.5a299f39.css",
-    "main.js": "/Small-Lamborghini-Website-clone/static/js/main.941c6a36.js",
+    "main.js": "/Small-Lamborghini-Website-clone/static/js/main.eef4a598.js",
     "static/media/Lamborghini reveulto preview.mp4": "/Small-Lamborghini-Website-clone/static/media/Lamborghini reveulto preview.a32bc69f089626162ecc.mp4",
     "static/media/01.jpg": "/Small-Lamborghini-Website-clone/static/media/01.56019037070455e2cc3d.jpg",
     "static/media/lamborghini-logo.png": "/Small-Lamborghini-Website-clone/static/media/lamborghini-logo.8ce6405f10b699adb211.png",
@@ -36,10 +36,10 @@
     "index.html": "/Small-Lamborghini-Website-clone/index.html",
     "static/media/search-icon.svg": "/Small-Lamborghini-Website-clone/static/media/search-icon.6c039fe9d8f89874a56d89a7862a05a3.svg",
     "main.5a299f39.css.map": "/Small-Lamborghini-Website-clone/static/css/main.5a299f39.css.map",
-    "main.941c6a36.js.map": "/Small-Lamborghini-Website-clone/static/js/main.941c6a36.js.map"
+    "main.eef4a598.js.map": "/Small-Lamborghini-Website-clone/static/js/main.eef4a598.js.map"
   },
   "entrypoints": [
     "static/css/main.5a299f39.css",
-    "static/js/main.941c6a36.js"
+    "static/js/main.eef4a598.js"
   ]
 }
