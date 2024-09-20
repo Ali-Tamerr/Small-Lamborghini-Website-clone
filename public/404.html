@@ -1,0 +1,6 @@
+<script>
+    const redirectTo = location.pathname === '/Small-Lamborghini-Website-clone/' 
+    ? '/' 
+    : location.pathname.split('/').slice(1).join('/');
+  window.location.replace('/Small-Lamborghini-Website-clone' + redirectTo);
+</script>
