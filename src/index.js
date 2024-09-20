@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './components/App.css';
 import App from './App';
-import { HashRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom';
 
-ReactDOM.render((
-   <HashRouter basename={process.env.PUBLIC_URL}>
-     <App />
-   </HashRouter>
-), document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <HashRouter>
+    <App />
+  </HashRouter>
+);
