@@ -2,7 +2,7 @@
   "homepage": "https://ali-tamerr.github.io/My-Lamborghini-website-clone/",
   "name": "my-app",
   "version": "0.1.0",
-  "private": private,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
