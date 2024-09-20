@@ -2053,7 +2053,7 @@ body {
         cursor: default;
     }
     #search-section{
-        top: -880px;
+        top: -125%;
     }
     #search-section-bar{
         font-size: 23px;
@@ -2064,7 +2064,7 @@ body {
         font-size: 25px;
     }
 }
-@media (max-height: 600px) {
+/* @media (max-height: 600px) {
     #search-section-bar{
         font-size: 23px;
         top: 330px;
@@ -2073,4 +2073,4 @@ body {
         top: 360px;
         font-size: 25px;
     }
-}
+} */
