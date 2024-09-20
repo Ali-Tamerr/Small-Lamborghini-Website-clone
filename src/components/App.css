@@ -2032,6 +2032,7 @@ body {
     #section-5-span-1,
     #section-5-span-3s,
     #section-5-span-5{
+        display: block;
         margin-top: 20px;
     }
 
