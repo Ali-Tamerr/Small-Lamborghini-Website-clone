@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useNavigate, useLocation } from "react-router-dom";
 import lamboLogo from './imgs/pngwing.com (3).png';
 import searchIcon from './imgs/search-icon.svg';
