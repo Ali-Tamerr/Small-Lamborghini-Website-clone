@@ -2,13 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './App';
 import App from './App';
-import { BrowserRouter } from 'react-router-dom';
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </React.StrictMode>
-);
+ReactDOM.render((
+   <BrowserRouter basename={process.env.PUBLIC_URL}>
+     <App />
+   </BrowserRouter>
+), document.getElementById('root'));
+  
