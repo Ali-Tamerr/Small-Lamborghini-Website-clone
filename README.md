@@ -1,5 +1,5 @@
 My first Front-End React project totaly made by me with my new favourite IDE "Cursor". 
-HTML, CSS & JS used only in this project and no Javascript or CSS Library Used. 
+CSS, JS & JSX are used only in this project and no Javascript or CSS Library Used. 
 This website is a small clone to AutoMobili Lamborghini Official website.
 
 Here's what i did in it:
@@ -10,4 +10,4 @@ Here's what i did in it:
 - And of course, The whole website is responsive to all the screens up to the Mobile medium screen size.
 
 
-Total time taken ≈ 12 days (A week & a half)
+Total time taken ≈ 12 days.
