@@ -33,7 +33,7 @@ body {
 #search-section {
     display: flex;
     position: fixed;
-    top: -110%;
+    top: -120%;
     padding-top: 220px;
     width: 100%;
     z-index: 5 !important;
