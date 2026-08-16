@@ -118,8 +118,8 @@ function App() {
     const elementsToObserve = [
       '#car-review-1-rect', '#car-review-1-img', '#car-review-2-rect', '#car-review-2-img',
       '#car-review-3-rect', '#car-review-3-img', '#car-review-1-right-side', '#car-review-2-left-side',
-      '#car-review-3-right-side', '#section-3-img:nth-child(1)', '#section-3-img:nth-child(2)',
-      '#section-3-img:nth-child(3)', '#section-3-upper-side', '#section-4-imgs img:nth-child(1)',
+      '#car-review-3-right-side', '#section-3-imgs img:nth-child(1)', '#section-3-imgs img:nth-child(2)',
+      '#section-3-imgs img:nth-child(3)', '#section-3-upper-side', '#section-4-imgs img:nth-child(1)',
       '#section-4-imgs img:nth-child(2)', '#section-4-imgs img:nth-child(3)', '#section-4-imgs img:nth-child(4)',
       '#section-4-imgs img:nth-child(5)', '#section-4-imgs img:nth-child(6)', '#section-4-span-1', '#lambo-logo-2'
     ];

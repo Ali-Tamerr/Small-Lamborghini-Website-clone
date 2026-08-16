@@ -12,9 +12,9 @@ const Section3 = ({ translate }) => {
         <button id="section-3-button-1">{translate('viewMore')}</button>
       </div>
       <div id="section-3-imgs">
-        <img id="section-3-img" src={fanArt1} alt="Fan Art 1"/>
-        <img id="section-3-img" src={fanArt2} alt="Fan Art 2"/>
-        <img id="section-3-img" src={fanArt3} alt="Fan Art 3"/>
+        <img src={fanArt1} alt="Fan Art 1"/>
+        <img src={fanArt2} alt="Fan Art 2"/>
+        <img src={fanArt3} alt="Fan Art 3"/>
       </div>
     </div>
   );
